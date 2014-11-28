@@ -1,0 +1,83 @@
+.top-left{
+
+float: left;
+box-shadow: 10px 10px 25px green;
+font-size : 20px;
+padding: 10px;
+}
+
+.top-right{
+
+float: left;
+box-shadow: 10px 10px 25px green;
+font-size : 20px;
+padding: 10px;
+}
+
+.top-left-menu{
+
+float : left;
+
+}
+
+
+.top-right-menu{
+
+float : right;
+
+}
+
+.middle_area{
+border:solid 1px;
+float: left;
+width: 100%;
+height: 80%;
+margin-top: 5%;
+
+}
+
+#index_title{
+
+font-size: 50px;
+
+}
+
+.bottom-links{
+
+align: center;
+margin-left: 550px;
+}
+
+.bottom-centre{
+
+box-shadow: 10px 10px 25px green;
+float : left;
+font-size : 20px;
+padding: 15px;
+
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    background-color: yellow;
+}
+
+/* mouse over link */
+a:hover {
+    background-color: green;
+}
+
+/* selected link */
+a:active {
+    background-color: black;
+}
+
+a {
+    display: block;
+    width: 60px;
+}
